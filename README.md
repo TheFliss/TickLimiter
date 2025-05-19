@@ -2,7 +2,7 @@
 Enhancement Mod for the [Minecraft Bedrock Dedicated Server](https://www.minecraft.net/en-us/download/server/bedrock)
 
 ## Functions
-* Add tick command ([BDS console only]())
+* Add tick command ([BDS console only](https://github.com/user-attachments/assets/c1393350-8388-4067-80c5-d7bf7b178ab0))
 
 ## Support Versions
 MCBDS Official version 1.21.70
